@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace TrasnferTierAPI.Areas.HelpPage
+namespace TransferTierAPI.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

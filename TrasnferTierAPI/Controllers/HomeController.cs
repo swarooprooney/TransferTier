@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace TrasnferTierAPI.Controllers
+namespace TransferTierAPI.Controllers
 {
 	public class HomeController : Controller
 	{

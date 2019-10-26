@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(TrasnferTierAPI.Startup))]
+[assembly: OwinStartup(typeof(TransferTierAPI.Startup))]
 
-namespace TrasnferTierAPI
+namespace TransferTierAPI
 {
     public partial class Startup
     {

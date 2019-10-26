@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace TrasnferTierAPI.Areas.HelpPage
+namespace TransferTierAPI.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

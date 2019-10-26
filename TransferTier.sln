@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrasnferTierAPI", "TrasnferTierAPI\TrasnferTierAPI.csproj", "{E6232932-D83E-4415-ACF5-9894BB5BD080}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferTierAPI", "TrasnferTierAPI\TransferTierAPI.csproj", "{E6232932-D83E-4415-ACF5-9894BB5BD080}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

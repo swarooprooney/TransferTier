@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using TrasnferTierAPI.Areas.HelpPage.ModelDescriptions;
-using TrasnferTierAPI.Areas.HelpPage.Models;
+using TransferTierAPI.Areas.HelpPage.ModelDescriptions;
+using TransferTierAPI.Areas.HelpPage.Models;
 
-namespace TrasnferTierAPI.Areas.HelpPage
+namespace TransferTierAPI.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

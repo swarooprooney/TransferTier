@@ -1,6 +1,6 @@
 using System;
 
-namespace TrasnferTierAPI.Areas.HelpPage.ModelDescriptions
+namespace TransferTierAPI.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

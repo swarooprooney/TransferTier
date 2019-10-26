@@ -13,11 +13,11 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using TrasnferTierAPI.Models;
-using TrasnferTierAPI.Providers;
-using TrasnferTierAPI.Results;
+using TransferTierAPI.Models;
+using TransferTierAPI.Providers;
+using TransferTierAPI.Results;
 
-namespace TrasnferTierAPI.Controllers
+namespace TransferTierAPI.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]

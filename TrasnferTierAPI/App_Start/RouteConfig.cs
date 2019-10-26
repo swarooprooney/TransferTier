@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace TrasnferTierAPI
+namespace TransferTierAPI
 {
 	public class RouteConfig
 	{

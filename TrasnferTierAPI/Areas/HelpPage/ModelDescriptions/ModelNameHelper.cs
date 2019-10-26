@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace TrasnferTierAPI.Areas.HelpPage.ModelDescriptions
+namespace TransferTierAPI.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

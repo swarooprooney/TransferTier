@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using TrasnferTierAPI.Providers;
-using TrasnferTierAPI.Models;
+using TransferTierAPI.Providers;
+using TransferTierAPI.Models;
 
-namespace TrasnferTierAPI
+namespace TransferTierAPI
 {
     public partial class Startup
     {

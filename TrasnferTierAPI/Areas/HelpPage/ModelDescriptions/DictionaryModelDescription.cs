@@ -1,4 +1,4 @@
-namespace TrasnferTierAPI.Areas.HelpPage.ModelDescriptions
+namespace TransferTierAPI.Areas.HelpPage.ModelDescriptions
 {
     public class DictionaryModelDescription : KeyValuePairModelDescription
     {

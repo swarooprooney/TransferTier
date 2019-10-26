@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace TrasnferTierAPI.Areas.HelpPage.ModelDescriptions
+namespace TransferTierAPI.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

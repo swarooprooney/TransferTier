@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace TrasnferTierAPI
+namespace TransferTierAPI
 {
 	public class BundleConfig
 	{

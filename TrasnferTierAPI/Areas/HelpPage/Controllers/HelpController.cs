@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using TrasnferTierAPI.Areas.HelpPage.ModelDescriptions;
-using TrasnferTierAPI.Areas.HelpPage.Models;
+using TransferTierAPI.Areas.HelpPage.ModelDescriptions;
+using TransferTierAPI.Areas.HelpPage.Models;
 
-namespace TrasnferTierAPI.Areas.HelpPage.Controllers
+namespace TransferTierAPI.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TrasnferTierAPI.Models
+namespace TransferTierAPI.Models
 {
     // Models returned by AccountController actions.
 
