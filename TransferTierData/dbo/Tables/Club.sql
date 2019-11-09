@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Club]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [CountryId] INT NOT NULL, 
+    [CreatedDate] DATETIME2 NOT NULL DEFAULT GETUTCDATE(), 
+[LastModified]DATETIME2 NOT NULL DEFAULT GETUTCDATE(), 
+    CONSTRAINT [FK_Club_ToCountry] FOREIGN KEY ([CountryId]) REFERENCES [Country]([Id])
+)
